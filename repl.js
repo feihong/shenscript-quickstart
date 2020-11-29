@@ -1,7 +1,9 @@
 
 /*
-Copy of https://github.com/rkoeninger/ShenScript/blob/master/scripts/repl.js
-This file isn't needed to run Shen code, but it isn't included in the bundle you get from npm
+Copied with minor changes from
+https://github.com/rkoeninger/ShenScript/blob/master/scripts/repl.js
+
+We commit this file here because it isn't included in the bundle you get from npm
 */
 const fs                    = require('fs');
 const { addAsyncFunctions } = require('awaitify-stream');

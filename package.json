@@ -6,6 +6,7 @@
     "shen-script": "^0.16.0"
   },
   "scripts": {
-    "repl": "node repl.js"
+    "repl": "node repl.js",
+    "go": "node go.js"
   }
 }

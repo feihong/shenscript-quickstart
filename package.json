@@ -1,0 +1,11 @@
+{
+  "name": "shenscript-quickstart",
+  "version": "0.1.0",
+  "license": "MIT",
+  "devDependencies": {
+    "shen-script": "^0.16.0"
+  },
+  "scripts": {
+    "repl": "node repl.js"
+  }
+}
